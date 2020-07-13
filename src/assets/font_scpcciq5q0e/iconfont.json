@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "436377",
+      "name": "钱",
+      "font_class": "50",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "1028071",
+      "name": "钱",
+      "font_class": "qian",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "5342826",
+      "name": "订单",
+      "font_class": "lvsefenkaicankaoxianban-",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "8084585",
+      "name": "清单/信息/设备基础信息/工单信息",
+      "font_class": "qingdan",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    }
+  ]
+}
